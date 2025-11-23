@@ -1,0 +1,26 @@
+.employeeloginmain{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.employeeloginhead{
+    font-size: 25px;
+    color: blue;
+    margin-bottom: 50px;
+}
+
+.employeeloginhead1{
+    font-size: 20px;
+    color: blue;
+}
+
+.employeelogininput{
+    width: 250px;
+    height: 30px;
+    margin-bottom: 30px;
+}
+
+.sorry{
+    color: red;
+}

@@ -1,0 +1,14 @@
+.boxmain{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.boxhead{
+    color: blue;
+}
+
+.boxhead:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}

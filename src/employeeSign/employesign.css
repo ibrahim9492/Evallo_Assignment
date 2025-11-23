@@ -1,0 +1,34 @@
+.employesignmain{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.employesighead{
+    font-size: 30px;
+    color: blue;
+    margin-bottom: 50px;
+}
+
+.employesighead1{
+    font-size: 20px;
+    color: blue;
+}
+
+.employesigninput{
+    width: 250px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+.employeesubmit{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.employeesubmit:hover{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.homemain{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://wallpapers.com/images/hd/4k-laptop-dream-desk-27xhabcycspkqeg3.jpg");
+    display: flex;
+    background-size: cover;
+    justify-content: center;
+}
+
+.homehead{
+    margin-top: 250px;
+    color: rgb(167, 167, 167);
+    text-shadow: 5px 5px 5px blueviolet;
+}

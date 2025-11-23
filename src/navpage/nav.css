@@ -1,0 +1,27 @@
+.navmain{
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    position:fixed;
+    top: 0%;
+    background-color: rgb(243, 243, 243);
+    box-shadow: 2px 2px lightgray;
+}
+
+.navhead1{
+        font-size:20px;
+        color: blue;
+       
+}
+
+.navhead{
+    font-size: 15px;
+    color: blueviolet;
+    font-weight:bold;
+
+}
+
+.navhead:hover{
+    text-shadow:1px 1px 1px blueviolet ;
+    cursor: pointer;
+}

@@ -1,0 +1,69 @@
+.employeelistmain{
+    width: 100vw;
+}
+
+.employeelist1{
+    width: 70vw;
+    display: flex;
+    justify-content:space-around;
+    position:absolute;
+    top: 130px;
+    background-color: lightgrey;
+    margin-left: 100px;
+}
+
+.employeehead{
+    font-size: 20px;
+}
+
+.employeeadd{
+    width: 100vw;
+    position:absolute;
+    top: 70px;
+    margin-left: 50px;
+    display: flex;
+    justify-content:space-around;
+}
+
+.employeebtn:hover{
+      background-color: blue;
+      color: white;
+      cursor: pointer;
+}
+
+.employeelist2{
+    display:grid;
+    grid-template-columns: 200px 300px 300px 300px 50px 50px;
+    justify-content:center;
+}
+
+.employeelist3{
+    position: absolute;
+    top: 200px;
+    width: 90vw;
+    margin-left: 100px;
+}
+
+.employeelisthead{
+    font-size: 15px;
+}
+
+.employeeicon{
+    color: red;
+}
+
+.employeeicon:hover{
+    cursor: pointer;
+}
+
+.employeedelete{
+    color: red;
+}
+
+.employeedelete:hover{
+    cursor: pointer;
+}
+
+.edit:hover{
+    cursor: pointer;
+}
